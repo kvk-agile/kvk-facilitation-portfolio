@@ -2,7 +2,7 @@ Facilitation & Gamification Portfolio 🎯
 
 A portfolio site documenting 13 years of enterprise facilitation, retrospective design, and large-scale planning work — built to show the technique, not just describe it.
 
-🔗 Live site: https://talktokvk-ship-it.github.io/kvk-facilitation-portfolio/
+🔗 Live site: https://kvk-agile.github.io/kvk-facilitation-portfolio/
 
 What this is
 
